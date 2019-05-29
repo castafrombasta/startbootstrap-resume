@@ -86,7 +86,7 @@ p.lead {
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
-  text-transform: lowercase;
+  text-transform: uppercase;
 }
 
 #sideNav .navbar-toggler:focus {
@@ -180,7 +180,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #000000 !important;
 }
 
 a {
